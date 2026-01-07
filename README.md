@@ -1,4 +1,4 @@
-# PIYUSH_KUMAR-10964-NALS-LAB-RECORD
+
 # 💫 About Me:
 👋 Hi, I'm Piyush Gupta<br>💻 Computer Science Student<br>🚀 Passionate about learning, building, and improving through code<br>🌱 Currently learning C, Data Structures, and Programming Fundamentals<br>🔧 Interested in problem-solving, logic building, and real-world projects<br>📂 I love working on mini projects and improving them step by step<br>🎯 Goal: Become a skilled software developer with strong fundamentals<br>🛠 Skills:<br>Programming: C<br>Concepts: Arrays, Strings, Functions, Basic Algorithms<br>Tools: Git, GitHub<br>📌 I believe consistency and practice are the keys to growth.<br>✨ Always learning, always improving.
 
